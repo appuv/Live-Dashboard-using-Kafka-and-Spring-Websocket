@@ -14,5 +14,8 @@ mvn clean install
 ## Dashboard
 [Dashboard](http://localhost:5656/home)
 
-## Demo Url
-[Youtube Link] (Yet to commit)
+## Demo Link
+[Youtube Link](https://youtu.be/Cj3BeA4bV1c)
+
+[Medium](https://medium.com/@masterappu/realtime-temperature-analytics-using-kafka-b1db9d91b870)
+
