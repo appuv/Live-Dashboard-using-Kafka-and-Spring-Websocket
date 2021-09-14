@@ -1,0 +1,4 @@
+com.springKafka.liveDashboard
+com.springKafka.liveDashboard.configurations
+com.springKafka.liveDashboard.controllers
+com.springKafka.liveDashboard.services

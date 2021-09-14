@@ -1,5 +1,18 @@
-# Live-Dashboard-using-Kafka-and-Spring-Websocket
-This Demo application reads data from Apache Kafka topic and updating the View using Spring Websocket on real-time.
+# Live-Dashboard-using-Kafka-and-Spring-Web socket
+This is a live dashboard for temperature analytics.
 
-Check the working Video : https://www.youtube.com/watch?v=GD0t-LwVRIM
-Check the Tutorial : https://dzone.com/articles/live-dashboard-using-apache-kafka-and-spring-webso
+## Getting Started
+To run the application,
+Change PropertyFiles **application.properties** accordingly
+
+Build the maven project
+
+```
+mvn clean install  
+```
+
+## Dashboard
+[Dashboard](http://localhost:5656/home)
+
+## Demo Url
+[Youtube Link] (Yet to commit)

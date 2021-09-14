@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.springKafka.liveDashboard"},{"l":"com.springKafka.liveDashboard.configurations"},{"l":"com.springKafka.liveDashboard.controllers"},{"l":"com.springKafka.liveDashboard.services"}]
