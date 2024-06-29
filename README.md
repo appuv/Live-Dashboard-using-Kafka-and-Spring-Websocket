@@ -1,6 +1,7 @@
 # Live-Dashboard-using-Kafka-and-Spring-Web socket
 This is a live dashboard for temperature analytics.
 
+[![CodeQL](https://github.com/appuv/Live-Dashboard-using-Kafka-and-Spring-Websocket/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/appuv/Live-Dashboard-using-Kafka-and-Spring-Websocket/actions/workflows/codeql-analysis.yml)
 ## Getting Started
 To run the application,
 Change PropertyFiles **application.properties** accordingly
