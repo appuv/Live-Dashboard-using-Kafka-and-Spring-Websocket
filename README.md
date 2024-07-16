@@ -1,7 +1,7 @@
 # Live-Dashboard-using-Kafka-and-Spring-Web socket
 This is a live dashboard for temperature analytics.
 
-[![CodeQL](https://github.com/appuv/Live-Dashboard-using-Kafka-and-Spring-Websocket/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/appuv/Live-Dashboard-using-Kafka-and-Spring-Websocket/actions/workflows/codeql-analysis.yml) [![License](https://img.shields.io/github/license/appuv/Live-Dashboard-using-Kafka-and-Spring-Websocket)](https://github.com/appuv/Live-Dashboard-using-Kafka-and-Spring-Websocket/blob/main/LICENSE) [![GitHub top language](https://img.shields.io/github/languages/top/appuv/Live-Dashboard-using-Kafka-and-Spring-Websocket)]([https://github.com/appuv/Live-Dashboard-using-Kafka-and-Spring-Websocket](https://img.shields.io/github/languages/top/appuv/Live-Dashboard-using-Kafka-and-Spring-Websocket))
+[![CodeQL](https://github.com/appuv/Live-Dashboard-using-Kafka-and-Spring-Websocket/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/appuv/Live-Dashboard-using-Kafka-and-Spring-Websocket/actions/workflows/codeql-analysis.yml) [![License](https://img.shields.io/github/license/appuv/Live-Dashboard-using-Kafka-and-Spring-Websocket)](https://github.com/appuv/Live-Dashboard-using-Kafka-and-Spring-Websocket/blob/master/LICENSE) [![GitHub top language](https://img.shields.io/github/languages/top/appuv/Live-Dashboard-using-Kafka-and-Spring-Websocket)]([https://github.com/appuv/Live-Dashboard-using-Kafka-and-Spring-Websocket](https://img.shields.io/github/languages/top/appuv/Live-Dashboard-using-Kafka-and-Spring-Websocket))
 
 ## Getting Started
 To run the application,
